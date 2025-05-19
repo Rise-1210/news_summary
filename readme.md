@@ -3,7 +3,7 @@
 ## 🔧 Installation
 
 ```
-cd Data_Science_in_Practice_summary
+cd summary
 
 conda create -n summary python=3.10
 conda activate summary
