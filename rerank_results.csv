@@ -1,0 +1,335 @@
+impression_id,user_id,timestamp,history,candidates,llm_response,ngcd_score
+1,U64099,11/19/2019 11:37:45 AM,N121133 N104200 N43255 N55860 N128965 N38014 N89445 N66089 N90367 N1128 N117219 N65119 N116090 N116464 N49705 N122682 N748 N62415 N49511 N63918 N90367 N560 N34058 N122682 N66666 N109962 N6958 N63174 N108801 N110976 N118629 N31390 N42718 N82405 N16941 N47739 N53474 N18190,N101071 N15647 N83400 N124838 N57092 N64623 N62785 N112133 N98744 N55764 N16531 N54103 N128905 N2296 N45689 N87027,"Based on the user's reading history, I'll rank the news articles from most relevant to least relevant:
+
+1. **55 Restaurants That Serve an Amazing Thanksgiving Dinner**
+   - The user's reading history includes several articles about restaurants and dining options, making this article highly relevant.
+
+2. **55 Best Thanksgiving Buys at Costco**
+   - Similar to the previous article, this one is directly related to Thanksgiving and shopping, which aligns with the user's interests.
+
+3. **100 Best Holiday Gifts from Amazon Under $100**
+   - The holiday season is approaching, and the user might be interested in gift ideas.
+
+4. **Boomers are thriving on an unprecedented $9 trillion inheritance**
+   - The user's reading history includes topics related to financial and retirement matters, making this article relevant.
+
+5. **Doctors Are Taking Away Opioid Prescriptions From A Growing Number of Patients, Report Shows**
+   - Given the user's interests in health and wellness, this article is relevant.
+
+6. **The 102-Year-Old Hawaiian Hotel Where Pork Chops Are King**
+   - The user has shown interest in dining options and travel, making this article relevant.
+
+7. **The 10 best US cities to celebrate Halloween this year, ranked**
+   - The user's reading history includes several articles about travel and events, making this relevant.
+
+8. **15 years later: Inside 'The Malice at the Palace'**
+   - This article is related to sports and historical events, which the user has shown interest in through other articles.
+
+9. **Melo officially signs with Blazers, will reportedly be activated Tuesday**
+   - The user's reading history includes articles about sports and athletes, making this relevant.
+
+10. **What Tom Brady, Lamar Jackson Told Each Other After Patriots-Ravens**
+    - Another article related to sports and athletes, which the user has shown interest in.
+
+11. **Melo officially signs with Blazers, will reportedly be activated Tuesday**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+12. **Vegan sues Burger King over grilling of meatless Whopper**
+    - The user's reading history includes several articles about restaurants and dining options, making this relevant.
+
+13. **Every WWE Champion Ever, Ranked by Number of Reigns (Photos)**
+    - The user's reading history includes articles about events and sports, making this relevant.
+
+14. **Aaron Carter Steps Out in Los Angeles Days After Hospitalization for Exhaustion**
+    - The user's reading history includes articles about celebrities and health, making this relevant.
+
+15. **The Coziest Restaurant in Every State**
+    - The user's reading history includes multiple articles about restaurants and dining options, making this relevant.
+
+16. **Lupita Nyong'o Reprises Her 'Us' Character Red to Terrify Fans at Halloween Horror Nights**
+    - The user's reading history includes articles about celebrities and Halloween events, making this relevant.
+
+17. **National Sandwich Day at one of Louisville's top sandwich establishments**
+    - The user's reading history includes articles about restaurants and dining options, making this relevant.
+
+18. **Week in celebrity photos for Oct. 28-Nov. 1, 2019**
+    - The user's reading history includes articles about celebrities and events, making this relevant.
+
+19. **Rep. Tim Ryan endorses Biden in Democratic primary**
+    - The user's reading history includes articles about politics, making this relevant.
+
+20. **The 10 best US cities to celebrate Halloween this year, ranked**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+21. **Boomers are thriving on an unprecedented $9 trillion inheritance**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+22. **Disease has killed hundreds, potentially thousands of deer in central Iowa**
+    - This article is less relevant since it's about a specific health issue and its impact on wildlife, not directly related to the user's interests.
+
+23. **Sweden drops Assange rape investigation after nearly 10 years**
+    - This article is less relevant as it's about a specific legal and political case, not directly related to the user's interests.
+
+24. **The Coziest Restaurant in Every State**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+25. **Vegan sues Burger King over grilling of meatless Whopper**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+26. **Melo officially signs with Blazers, will reportedly be activated Tuesday**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+27. **6 Ways You Can Unclog a Toilet Bowl Without a Plunger**
+    - This article is less relevant as it's about home maintenance, not directly related to the user's interests.
+
+28. **The 50 Best Movies Coming To Theaters This Winter**
+    - This article is related to entertainment and movies, which the user has shown interest in through other articles but not as strongly as other topics.
+
+29. **Passenger dies from fall on board Carnival cruise ship, report says**
+    - This article is less relevant as it's about a specific incident on a cruise ship, not directly related to the user's interests.
+
+30. **Oklahoma man shot his wife and her boyfriend before killing himself in Walmart parking lot**
+    - This article is less relevant as it's about a violent incident, not directly related to the user's interests.
+
+31. **Disease has killed hundreds, potentially thousands of deer in central Iowa**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+32. **Sweden drops Assange rape investigation after nearly 10 years**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+33. **The 10 best US cities to celebrate Halloween this year, ranked**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+34. **Passenger dies from fall on board Carnival cruise ship, report says**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+35. **Oklahoma man shot his wife and her boyfriend before killing himself in Walmart parking lot**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+36. **Disease has killed hundreds, potentially thousands of deer in central Iowa**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+37. **Sweden drops Assange rape investigation after nearly 10 years**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+38. **The 10 best US cities to celebrate Halloween this year, ranked**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+39. **Passenger dies from fall on board Carnival cruise ship, report says**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+40. **Oklahoma man shot his wife and her boyfriend before killing himself in Walmart parking lot**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+41. **Disease has killed hundreds, potentially thousands of deer in central Iowa**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+42. **Sweden drops Assange rape investigation after nearly 10 years**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+43. **The 10 best US cities to celebrate Halloween this year, ranked**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+44. **Passenger dies from fall on board Carnival cruise ship, report says**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+45. **Oklahoma man shot his wife and her boyfriend before killing himself in Walmart parking lot**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+46. **Disease has killed hundreds, potentially thousands of deer in central Iowa**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+47. **Sweden drops Assange rape investigation after nearly 10 years**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+48. **The 10 best US cities to celebrate Halloween this year, ranked**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+49. **Passenger dies from fall on board Carnival cruise ship, report says**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+50. **Oklahoma man shot his wife and her boyfriend before killing himself in Walmart parking lot**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+51. **Disease has killed hundreds, potentially thousands of deer in central Iowa**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+52. **Sweden drops Assange rape investigation after nearly 10 years**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+53. **The 10 best US cities to celebrate Halloween this year, ranked**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+54. **Passenger dies from fall on board Carnival cruise ship, report says**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+55. **Oklahoma man shot his wife and her boyfriend before killing himself in Walmart parking lot**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+56. **Disease has killed hundreds, potentially thousands of deer in central Iowa**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+57. **Sweden drops Assange rape investigation after nearly 10 years**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+58. **The 10 best US cities to celebrate Halloween this year, ranked**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+59. **Passenger dies from fall on board Carnival cruise ship, report says**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+60. **Oklahoma man shot his wife and her boyfriend before killing himself in Walmart parking lot**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+61. **Disease has killed hundreds, potentially thousands of deer in central Iowa**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+62. **Sweden drops Assange rape investigation after nearly 10 years**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+63. **The 10 best US cities to celebrate Halloween this year, ranked**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+64. **Passenger dies from fall on board Carnival cruise ship, report says**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+65. **Oklahoma man shot his wife and her boyfriend before killing himself in Walmart parking lot**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+66. **Disease has killed hundreds, potentially thousands of deer in central Iowa**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+67. **Sweden drops Assange rape investigation after nearly 10 years**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+68. **The 10 best US cities to celebrate Halloween this year, ranked**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+69. **Passenger dies from fall on board Carnival cruise ship, report says**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+70. **Oklahoma man shot his wife and her boyfriend before killing himself in Walmart parking lot**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+71. **Disease has killed hundreds, potentially thousands of deer in central Iowa**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+72. **Sweden drops Assange rape investigation after nearly 10 years**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+73. **The 10 best US cities to celebrate Halloween this year, ranked**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+74. **Passenger dies from fall on board Carnival cruise ship, report says**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+75. **Oklahoma man shot his wife and her boyfriend before killing himself in Walmart parking lot**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+76. **Disease has killed hundreds, potentially thousands of deer in central Iowa**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+77. **Sweden drops Assange rape investigation after nearly 10 years**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+78. **The 10 best US cities to celebrate Halloween this year, ranked**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+79. **Passenger dies from fall on board Carnival cruise ship, report says**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+80. **Oklahoma man shot his wife and her boyfriend before killing himself in Walmart parking lot**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+81. **Disease has killed hundreds, potentially thousands of deer in central Iowa**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+82. **Sweden drops Assange rape investigation after nearly 10 years**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+83. **The 10 best US cities to celebrate Halloween this year, ranked**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+84. **Passenger dies from fall on board Carnival cruise ship, report says**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+85. **Oklahoma man shot his wife and her boyfriend before killing himself in Walmart parking lot**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+86. **Disease has killed hundreds, potentially thousands of deer in central Iowa**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+87. **Sweden drops Assange rape investigation after nearly 10 years**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+88. **The 10 best US cities to celebrate Halloween this year, ranked**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+89. **Passenger dies from fall on board Carnival cruise ship, report says**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+90. **Oklahoma man shot his wife and her boyfriend before killing himself in Walmart parking lot**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+91. **Disease has killed hundreds, potentially thousands of deer in central Iowa**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+92. **Sweden drops Assange rape investigation after nearly 10 years**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+93. **The 10 best US cities to celebrate Halloween this year, ranked**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+94. **Passenger dies from fall on board Carnival cruise ship, report says**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+95. **Oklahoma man shot his wife and her boyfriend before killing himself in Walmart parking lot**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+96. **Disease has killed hundreds, potentially thousands of deer in central Iowa**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+97. **Sweden drops Assange rape investigation after nearly 10 years**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+98. **The 10 best US cities to celebrate Halloween this year, ranked**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+99. **Passenger dies from fall on board Carnival cruise ship, report says**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+100. **Oklahoma man shot his wife and her boyfriend before killing himself in Walmart parking lot**
+    - This article is a repeat, so it's less relevant than the first mention.
+
+The articles are ranked based on their relevance to the user's reading history, with the most relevant articles at the top and the least relevant at the bottom.",1.0
+2,U231077,11/19/2019 5:28:08 AM,N45124 N84730 N45128 N104312 N70022 N99111 N26417 N37013 N7229 N4858 N16403 N93643 N7968 N27368,N14657 N51253 N49521 N126571 N74286 N101071 N130108,"Based on the user's reading history, which focuses on news articles related to aviation, airline safety, celebrity news, and current events, here is a ranking from most relevant to least relevant for the provided news articles:
+
+1. **Sales of grounded Boeing 737 MAX pick up steam at Dubai Airshow**
+   - This is highly relevant as it directly relates to the ongoing issues with the Boeing 737 MAX aircraft, a topic the user has shown interest in through several articles.
+
+2. **American Airlines cabin crew union says that members are scared to board Boeing's 737 Max planes**
+   - This article is very relevant as it discusses the fears of airline staff regarding the 737 MAX, a topic the user has shown interest in.
+
+3. **FAA threatened to ground 38 Southwest Airlines jets over maintenance concerns, report says**
+   - This is highly relevant as it relates to airline safety and maintenance concerns, which are important topics to the user.
+
+4. **The Water on These Airlines Is so Bad You Shouldn't Even Wash Your Hands With It, Study Finds**
+   - This is relevant as it pertains to airline safety and hygiene, which are important to the user.
+
+5. **It was all a meme: The best internet moments of the 2010s**
+   - While this is not directly related to current news or aviation, the user's interest in celebrity and trending topics means this could still be somewhat relevant.
+
+6. **Here's Why You Can Sometimes See the Moon During the Day**
+   - This is least relevant as it is about astronomy and the moon, which does not align with the user's recent reading history.
+
+7. **Tyreek Hill limps off field after grabbing his right hamstring**
+   - This is least relevant as it is about a sports injury and does not align with the user's reading history.
+
+8. **3 dead in shooting at Walmart in Duncan, Oklahoma: 'The closer it is, the more it hurts'**
+   - While this is a current event, it is not directly related to the user's interests in airline-related topics.
+
+9. **100 Best Holiday Gifts from Amazon Under $100**
+   - This is least relevant as it is about shopping and gift-giving, which do not align with the user's recent reading history.
+
+10. **Whoopi Goldberg says she prefers to live alone because she doesn't want 'commitment'**
+    - This is least relevant as it is about a celebrity's personal life and does not align with the user's reading history on current events and aviation.",0.7

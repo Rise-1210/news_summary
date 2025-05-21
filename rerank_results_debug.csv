@@ -1,0 +1,149 @@
+impression_id,user_id,timestamp,history,candidates,llm_response,ngcd_score
+1,U64099,11/19/2019 11:37:45 AM,N121133 N104200 N43255 N55860 N128965 N38014 N89445 N66089 N90367 N1128 N117219 N65119 N116090 N116464 N49705 N122682 N748 N62415 N49511 N63918 N90367 N560 N34058 N122682 N66666 N109962 N6958 N63174 N108801 N110976 N118629 N31390 N42718 N82405 N16941 N47739 N53474 N18190,N101071 N15647 N83400 N124838 N57092 N64623 N62785 N112133 N98744 N55764 N16531 N54103 N128905 N2296 N45689 N87027,"To rank the news articles from most relevant to least relevant to the user's reading history, we need to consider the topics that the user has shown interest in. Based on the reading history, the user seems to have interests in travel, celebrity news, food and dining, and local/regional news. Let's analyze the provided articles:
+
+1. **ID: N101071 - ""100 Best Holiday Gifts from Amazon Under $100""**  
+   - This is less relevant as the user's reading history does not show much interest in holiday gift guides.
+
+2. **ID: N15647 - ""Doctors Are Taking Away Opioid Prescriptions From A Growing Number of Patients, Report Shows""**  
+   - This topic is not directly related to the user's reading history.
+
+3. **ID: N83400 - ""Boomers are thriving on an unprecedented $9 trillion inheritance""**  
+   - This is somewhat relevant as it pertains to financial inheritance, which could be of interest to some readers, but it's not a primary focus in the reading history.
+
+4. **ID: N124838 - ""15 years later: Inside 'The Malice at the Palace'""**  
+   - This article is about a sports incident that occurred 15 years ago and is not likely to be of high relevance to the user.
+
+5. **ID: N57092 - ""Oklahoma man shot his wife and her boyfriend before killing himself in Walmart parking lot""**  
+   - This is a crime story and is not likely to be of high relevance to the user, especially given the context of previous articles.
+
+6. **ID: N64623 - ""Disease has killed hundreds, potentially thousands of deer in central Iowa""**  
+   - This is a local news story about a health issue affecting wildlife and is not highly relevant.
+
+7. **ID: N62785 - ""Sweden drops Assange rape investigation after nearly 10 years""**  
+   - This is a political news item and not highly relevant.
+
+8. **ID: N112133 - ""Vegan sues Burger King over grilling of meatless Whopper""**  
+   - This aligns with the interest in food and dining but is a specific legal issue and less general.
+
+9. **ID: N98744 - ""55 Best Thanksgiving Buys at Costco""**  
+   - This is a specific holiday-related article and not directly aligned with the user's interests.
+
+10. **ID: N55764 - ""55 Restaurants That Serve an Amazing Thanksgiving Dinner""**  
+    - This aligns with the interest in food and dining and is more relevant than the previous article.
+
+11. **ID: N16531 - ""Passenger dies from fall on board Carnival cruise ship, report says""**  
+    - This is a local news story about a tragic incident and is not highly relevant.
+
+12. **ID: N54103 - ""Melo officially signs with Blazers, will reportedly be activated Tuesday""**  
+    - This is a sports news item and not highly relevant due to the user's focus on travel, food, and local news.
+
+13. **ID: N128905 - ""6 Ways You Can Unclog a Toilet Bowl Without a Plunger""**  
+    - This is a home maintenance article and not highly relevant.
+
+14. **ID: N2296 - ""Every WWE Champion Ever, Ranked by Number of Reigns (Photos)""**  
+    - This is a sports article on WWE and not highly relevant.
+
+15. **ID: N45689 - ""Aaron Carter Steps Out in Los Angeles Days After Hospitalization for Exhaustion""**  
+    - This is a celebrity news story and aligns with the user's interest in celebrity news but is not as relevant as other articles.
+
+16. **ID: N87027 - ""The 50 Best Movies Coming To Theaters This Winter""**  
+    - This is a general entertainment news item and not highly relevant.
+
+17. **ID: N55860 - ""Wardlow Auctions selected to sell remaining contents of Joe Ley Antiques""**  
+    - This aligns with local/regional news and is somewhat relevant.
+
+18. **ID: N90367 - ""The Coziest Restaurant in Every State""**  
+    - This directly aligns with the user's interest in dining and local/regional news.
+
+19. **ID: N116090 - ""30 All-You-Can-Eat Seafood Restaurants Reviewers Love""**  
+   ",1.0
+2,U231077,11/19/2019 5:28:08 AM,N45124 N84730 N45128 N104312 N70022 N99111 N26417 N37013 N7229 N4858 N16403 N93643 N7968 N27368,N14657 N51253 N49521 N126571 N74286 N101071 N130108,"Based on the user's reading history, the relevance of the news articles can be ranked as follows:
+
+1. **ID: N49521 - Sales of grounded Boeing 737 MAX pick up steam at Dubai Airshow**
+   - The user has a history with articles related to the Boeing 737 Max, specifically the ongoing issues with the aircraft and the union concerns about its safety.
+
+2. **ID: N26417 - American Airlines cabin crew fear return of Boeing 737 Max**
+   - This article directly relates to the user's interest in the Boeing 737 Max and the concerns of the airline crew regarding its safety.
+
+3. **ID: N99111 - Black cat visits field during Cowboys-Giants game on 'Monday Night Football'**
+   - While this might not seem directly relevant, the user has shown interest in various events and news, including sports, so this could be somewhat relevant.
+
+4. **ID: N14657 - It was all a meme: The best internet moments of the 2010s**
+   - The user's reading history includes articles about internet culture and memes, making this a somewhat relevant topic.
+
+5. **ID: N51253 - Here's Why You Can Sometimes See the Moon During the Day**
+   - This article is about astronomy and might be slightly relevant to the user's broader interests, given their reading history.
+
+6. **ID: N126571 - Tyreek Hill limps off field after grabbing his right hamstring**
+   - The user’s reading history includes articles about sports and events, making this moderately relevant.
+
+7. **ID: N74286 - 3 dead in shooting at Walmart in Duncan, Oklahoma**
+   - This is a news article on a tragic event and is generally less relevant to the user’s specific interests in the reading history provided.
+
+8. **ID: N101071 - 100 Best Holiday Gifts from Amazon Under $100**
+   - This article is about retail and gift recommendations, which may be relevant but less so given the user’s focus on current events and specific news topics.
+
+9. **ID: N130108 - Whoopi Goldberg says she prefers to live alone because she doesn't want 'commitment'**
+   - This article is about a celebrity's personal choices and may be slightly relevant due to the user’s interest in celebrities, but it is less directly related to their news reading history.
+
+10. **ID: N7968 - Marie Osmond 'chipped off a piece' of her kneecap when she fell on stage during performance**
+    - This article is about a celebrity’s accident and might be slightly relevant to the user’s interest in celebrities and news.
+
+11. **ID: N37013 - The Water on These Airlines Is so Bad You Shouldn't Even Wash Your Hands With It, Study Finds**
+    - This article is about airline safety and could be somewhat relevant due to the user’s interest in the 737 Max.
+
+12. **ID: N93643 - FAA threatened to ground 38 Southwest Airlines jets over maintenance concerns, report says**
+    - This article is relevant to the user’s interest in airline safety and issues with specific aircraft models.
+
+This ranking considers the user's specific interests and reading history, placing items that align closely with their previous reading at the top.",0.7
+3,U606012,11/19/2019 4:46:23 AM,N59893 N84662 N90686 N33265 N127225 N120859 N61029 N116144 N75821 N8063 N40822 N127336 N24786 N4041 N1881 N9372 N91597 N22259 N114376 N8223 N50428 N91974 N20250,N74286 N9250 N26898 N123737 N98301 N80580 N45689 N8607 N102888 N75503 N36167 N39346 N48377 N5591 N73886 N14657 N114737 N107013 N91753 N16113 N57456 N60144 N67050 N71369 N28464 N49460 N23011 N130108 N101404 N28583 N59848 N110417 N101071 N24396 N116383 N126182 N95635 N5911 N128905 N48196 N3295 N68164 N88716 N71992 N116281 N95969 N36880 N112755 N28966 N81818 N91066 N89419 N50837 N95005 N50858 N83903 N800 N25389 N123072 N89778 N106088 N72882 N47986 N99036 N32674 N70679 N15306 N101509 N34085 N62581 N34558 N18639 N16161 N59386 N3815 N49554 N29427 N28607 N16531 N15212 N116814 N35334,"Based on the provided reading history, I will rank the news articles from most relevant to least relevant:
+
+1. **ID: N74286**: 3 dead in shooting at Walmart in Duncan, Oklahoma: 'The closer it is, the more it hurts'
+   - Most relevant, given the local connection (Oklahoma) to the user's reading history.
+
+2. **ID: N8063**: Channing Tatum, Jessie J look smitten in Pacific Park date selfies, plus more news
+   - High relevance considering celebrity news and personal relationships, which are common themes in the user's history.
+
+3. **ID: N123737**: Kourtney Kardashian responds to backlash over kids' birthday party feud, plus more news
+   - Relevant due to Kourtney Kardashian, a well-known celebrity, and her personal life.
+
+4. **ID: N128905**: 6 Ways You Can Unclog a Toilet Bowl Without a Plunger
+   - Slightly relevant as the user has shown interest in practical, everyday tips and solutions.
+
+5. **ID: N8607**: Monroe boy, 11, called 'hero' for calling 911, saving great-grandmother's life
+   - Relevant due to the heroic act and local connection (Monroe).
+
+6. **ID: N91974**: 12 Most Affectionate Cat Breeds
+   - Relevant given the user's interest in cats and affectionate behaviors.
+
+7. **ID: N71369**: Adorable cats have hilarious reactions to cat face filter
+   - Highly relevant for the same reasons as the previous article.
+
+8. **ID: N48377**: Top 50 things to do in Florida that aren't Disney or the beach
+   - Relevant for travel and local interest in Florida.
+
+9. **ID: N73886**: Dad tries to trick son into eating his greens
+   - Slightly relevant as it involves a similar parent-child interaction as seen in other articles.
+
+10. **ID: N91753**: Which Zodiac Is The Nicest? Zodiac Ranking From The Nicest To Meanest
+    - Relevant due to the zodiac theme, which appears in other articles.
+
+11. **ID: N28464**: Taliban free US, Australian hostage for 3 Taliban figures
+    - Less relevant but still of some interest given the geopolitical context.
+
+12. **ID: N101071**: 100 Best Holiday Gifts from Amazon Under $100
+    - Less relevant but still within the realm of practical, everyday interests.
+
+13. **ID: N23011**: Trailer - Knives and Skin
+    - Less relevant but still of interest due to the movie trailer format.
+
+14. **ID: N107013**: Destinations you could visit in 2010 but can't in 2020
+    - Less relevant but still of interest due to the travel theme.
+
+15. **ID: N15212**: Blake Lively Deletes All Her Instagram Posts...Except for One
+    - Less relevant but still of interest due to celebrity news.
+
+16. **ID: N116814**: John Woo Fears Marvel Movies 'Will Make Young Audiences Get Lost When It Comes to Knowledge About Film'
+    - Least relevant as it is more of an opinion piece on film and does not directly relate to the user's interests.
+
+This ranking reflects the user's interests in local news, celebrity gossip, practical tips, and animal-related topics.",0.3
